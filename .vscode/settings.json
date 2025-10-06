@@ -21,5 +21,5 @@
   ],
   "idf.port": "/dev/ttyUSB0",
   "idf.portWin": "COM3",
-  "idf.pythonInstallPath": "c:\\Users\\leopo\\.espressif\\tools\\idf-python\\3.11.2\\python.exe"
+  "idf.pythonInstallPath": "/usr/bin/python3"
 }
